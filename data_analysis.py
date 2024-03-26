@@ -1,4 +1,4 @@
-from extract_data import extract_data
+from data_extraction import extract_data
 
 def analyse():
    try:
