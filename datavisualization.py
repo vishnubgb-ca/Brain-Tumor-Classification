@@ -1,4 +1,4 @@
-from extract_data import extract_data
+from data_extraction import extract_data
 from PIL import Image
 import requests
 from io import BytesIO
